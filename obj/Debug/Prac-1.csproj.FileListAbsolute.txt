@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Prac-1\Prac-1\bin\Debug\Prac-1.exe.config
+C:\Users\Admin\source\repos\Prac-1\Prac-1\bin\Debug\Prac-1.exe
+C:\Users\Admin\source\repos\Prac-1\Prac-1\bin\Debug\Prac-1.pdb
+C:\Users\Admin\source\repos\Prac-1\Prac-1\obj\Debug\Prac-1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Prac-1\Prac-1\obj\Debug\Prac_1.Form1.resources
+C:\Users\Admin\source\repos\Prac-1\Prac-1\obj\Debug\Prac_1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Prac-1\Prac-1\obj\Debug\Prac-1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Prac-1\Prac-1\obj\Debug\Prac-1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Prac-1\Prac-1\obj\Debug\Prac-1.exe
+C:\Users\Admin\source\repos\Prac-1\Prac-1\obj\Debug\Prac-1.pdb
